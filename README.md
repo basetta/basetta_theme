@@ -1,5 +1,5 @@
 # Theme for Basetta's Website #
-See [baseta.pupazzo.org](http://basetta.pupazzo.org) for a live demo.
+See [basseta.pupazzo.org](http://basetta.pupazzo.org) for a live demo.
 
 It was inspired by [aijazansari.com](http://aijazansari.com/)
 
